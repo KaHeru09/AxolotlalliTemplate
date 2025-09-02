@@ -16,6 +16,9 @@
 #include "Base/Scene.h"
 #include "Scenario.h"
 
+// --- TESTING ---
+// --- GRAFCOM ---
+
 #define MAX_LOADSTRING 100
 #ifdef _WIN32 
 #include "InputDevices/GamePadRR.h"
